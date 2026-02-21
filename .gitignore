@@ -1,0 +1,8 @@
+# Large ML files
+ml-engine/Data/fpl_gameweek_history.csv
+ml-engine/Models/fpl_model.pkl
+ml-engine/Data/optimized_team.csv
+# Jupyter
+ml-engine/Notebook/.ipynb_checkpoints/
+__pycache__/
+*.pyc
